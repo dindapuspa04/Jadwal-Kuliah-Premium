@@ -1,6 +1,11 @@
 #  Mobile Schedule App — Tugas Praktikum Pemrograman Mobile
 
 Aplikasi monitoring jadwal perkuliahan mahasiswa berbasis React Native (Expo) dengan arsitektur data statis terpusat. Proyek ini dibangun untuk memenuhi kriteria penilaian pada modul **Handling Lists & Data Rendering**.
+Nama: Dinda Puspa Partiwi
+NPM: 233510549
+Kelas : 6C
+Program Studi: Teknik Informatika
+Universitas: Universitas Islam Riau 
 
 ##  Fitur Utama & Interaktivitas
 * **Halaman 1: Ringkasan Mata Kuliah (`.map()`)** — Menampilkan ringkasan seluruh paket KRS yang diambil semester ini secara terstruktur dengan ekstraksi key unik pada tiap elemen.
